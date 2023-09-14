@@ -1,1 +1,1 @@
-# clase2
+# Reconocimiento Óptico de Caracteres
